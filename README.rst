@@ -31,7 +31,7 @@ Python's standard library and some other low-level modules have near-complete da
 - Too many modules:  datetime, time, calendar, dateutil, pytz and more
 - Too many types:  date, time, datetime, tzinfo, timedelta, relativedelta, etc.
 - Time zones and timestamp conversions are verbose and unpleasant 
-- Time zone naievety is the norm
+- Time zone naivety is the norm
 - Gaps in functionality:  ISO-8601 parsing, timespans, humanization
 
 Features 
